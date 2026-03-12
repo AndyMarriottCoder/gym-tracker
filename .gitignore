@@ -6,7 +6,5 @@
 **/terraform.tfstate.backup
 .terraformrc
 terraform.rc
-*.tf
 *.tfvars
-**/*.tf
 **/*.tfvars
